@@ -5,6 +5,7 @@ import banking6.*;
 public class CustomerReport {
 	Bank bank = Bank.getBanking();
 	Customer customer;
+
 	public void generateReport() {
 		// Generate a report
 		System.out.println("\t\t\tCUSTOMERS REPORT");
