@@ -1,2 +1,2 @@
-# DailyExer
-个人的小练习~
+# bank_exer
+Bank项目练习
